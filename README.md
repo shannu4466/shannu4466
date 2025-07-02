@@ -35,7 +35,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Shannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shannu469&show_icons=true&theme=radical)
+![Shannu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shannu4466&show_icons=true&theme=radical)
 
 ---
 
