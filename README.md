@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shannu
+# 👋 Hi, I'm Shanmukha Rao
 
 🎓 I'm a Computer Science student passionate about solving problems through code and building impactful tech.
 
